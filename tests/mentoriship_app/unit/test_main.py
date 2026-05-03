@@ -1,4 +1,4 @@
-from mentoriship_app.main import main
+from mentorship_app.main import main
 
 
 def test_main():
